@@ -1,3 +1,3 @@
 # gitskills
 git skills
-git is do good
+before push git is do good
